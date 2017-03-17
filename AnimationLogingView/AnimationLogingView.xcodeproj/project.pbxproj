@@ -168,7 +168,7 @@
 				TargetAttributes = {
 					8699E9881B83519F002FBCC7 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = 6LNK3C34T2;
+						DevelopmentTeam = JXW7UH6S8Y;
 					};
 					8699E9A11B83519F002FBCC7 = {
 						CreatedOnToolsVersion = 6.4;
@@ -348,10 +348,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6LNK3C34T2;
+				DEVELOPMENT_TEAM = JXW7UH6S8Y;
 				INFOPLIST_FILE = AnimationLogingView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sands.AnimationLogingView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -360,10 +361,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6LNK3C34T2;
+				DEVELOPMENT_TEAM = JXW7UH6S8Y;
 				INFOPLIST_FILE = AnimationLogingView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sands.AnimationLogingView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
