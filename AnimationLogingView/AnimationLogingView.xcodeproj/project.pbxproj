@@ -172,6 +172,7 @@
 					};
 					8699E9A11B83519F002FBCC7 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = JXW7UH6S8Y;
 						TestTargetID = 8699E9881B83519F002FBCC7;
 					};
 				};
@@ -374,6 +375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = JXW7UH6S8Y;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -393,6 +395,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = JXW7UH6S8Y;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
